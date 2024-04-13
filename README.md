@@ -4,3 +4,4 @@ Projects to do with a Yamaha TY175 build.
 - Suzuki RL250 tank mount: OEM style mount, for the forward mounts on an original Suzuki fuel tank.  
 - TY175 Oil blockoff: rubber cover to replace the original rubber grommet that the cable and oil line passed through.
 - TY175 Tank Mount: rear fuel tank mount to replace a damaged or missing one.
+- TY175 Swingarm seal protector:  Fits over the left side of the swingarm, to protect the seal from chain damage.
